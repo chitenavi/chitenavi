@@ -27,8 +27,12 @@ const chitenavi = {
 
 ---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chitenavi&show_icons=true&locale=en" alt="chitenavi" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chitenavi&" alt="chitenavi" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chitenavi&show_icons=true&locale=en" alt="chitenavi" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chitenavi&" alt="chitenavi" /></p>
+
+---
+
+
 
 ---
 
